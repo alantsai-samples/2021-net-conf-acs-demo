@@ -5,7 +5,7 @@ The original of the content is from Microsoft tutorial content, which links are 
 ## Getting user access token and user id
 You can get user access token and user id (who you want to call) by using Azure Portal `Identities & User Access Tokens` function
 
-![Identities & User Access Tokens](img\azure-portal-identity.png)
+![Identities & User Access Tokens](img/azure-portal-identity.png)
 
 ## demo-01-1on1
 
