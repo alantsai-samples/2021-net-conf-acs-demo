@@ -2,6 +2,8 @@ This is a demo which I did for .Net Conf 2021 in Taiwan for the session about Az
 
 The original of the content is from Microsoft tutorial content, which links are give in each section.
 
+> Power point slides (Chinese): https://www.slideshare.net/alantsai2007/2021-net-conf-taiwan-azure-communication-service-app
+
 ## Getting user access token and user id
 You can get user access token and user id (who you want to call) by using Azure Portal `Identities & User Access Tokens` function
 
